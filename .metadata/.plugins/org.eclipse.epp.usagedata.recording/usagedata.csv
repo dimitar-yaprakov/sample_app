@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670227966
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670229222
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670229976
+error,log,,,"Unhandled event loop exception",1338670230235
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670232379
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670237821
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670238878
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670240615
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670243574
+error,log,,,"Unhandled event loop exception",1338670246187
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670248127
+error,log,,,"Unhandled event loop exception",1338670249548
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670262195
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670267650
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670276178
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670276991
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670277058
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670357531
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670364288
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670407332
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670424609
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670426196
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670430724
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670440591
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670473204
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670482262
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670485650
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670487879
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670490253
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670499077
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670512533
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670512904
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670512974
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670515076
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670515932
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1338670517118
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670518554
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670520974
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670528629
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670535827
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670542248
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670543104
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670544718
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670544718
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670550572
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1338670556209
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670557169
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670558624
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670559726
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670565266
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670565792
+error,log,,,"Unhandled event loop exception",1338670565831
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670570760
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338670571643
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338670571907
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670572768
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670573263
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670578286
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670597282
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670603087
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670610847
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670611056
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670611146
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670629450
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670629610
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670629687
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670634040
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670637859
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670640207
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670640207
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670646403
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670646531
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670646606
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670657957
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670660608
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670663027
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670666561
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670670639
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670670639
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670671960
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670671961
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670673986
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670673986
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670675939
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338670675939
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670677589
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670679007
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670685493
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670686232
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670706486
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670715091
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670715153
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670723285
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670723425
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670723525
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670725518
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670725518
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338670727909
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670728083
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670728154
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670733293
+error,log,,,"Unhandled event loop exception",1338670733348
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670782117
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670802483
+error,log,,,"Unhandled event loop exception",1338670820348
+error,log,,,"Unhandled event loop exception",1338670820402
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670822461
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670823393
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670826341
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670829170
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670829762
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670830473
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670831381
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670843015
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670849475
+error,log,,,"Unhandled event loop exception",1338670870252
+error,log,,,"Unhandled event loop exception",1338670870275
+error,log,,,"Unhandled event loop exception",1338670873013
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670888330
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1338670893930
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670910872
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670911878
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338670912464
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670913452
+error,log,,,"Unhandled event loop exception",1338670913498
+error,log,,,"Unhandled event loop exception",1338670913501
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338670989931
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338670994841
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338670996190
+error,log,,,"Unhandled event loop exception",1338671000885
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671004187
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671019782
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.delete.line",1338671023641
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338671025028
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671026448
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671028143
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671048916
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671055475
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671058543
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338671060957
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671061098
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671061165
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671068295
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671069581
+error,log,,,"Unhandled event loop exception",1338671069625
+error,log,,,"Unhandled event loop exception",1338671069634
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671079058
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671079123
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671079123
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671090190
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671091858
+error,log,,,"Unhandled event loop exception",1338671094762
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671096335
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671097045
+error,log,,,"Unhandled event loop exception",1338671100487
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671101495
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671102875
+error,log,,,"Unhandled event loop exception",1338671103334
+error,log,,,"(Build 3.0.0.1321644809) [ERROR]  For input string: """"",1338671118424
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671118728
+closed,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671118733
+opened,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671120167
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671120326
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671189382
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671198152
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671198600
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671217036
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671218725
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671261198
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671262567
+error,log,,,"Unhandled event loop exception",1338671262615
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671267236
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671268779
+error,log,,,"Unhandled event loop exception",1338671307068
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671318227
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671319965
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671359597
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671360926
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671362471
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671393377
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671399922
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1338671403621
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1338671407316
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671410954
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338671412589
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671443958
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671517797
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671518619
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671538270
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338671544751
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671544923
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671545003
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1338671558783
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338671560272
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671560452
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671560490
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338671563040
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671563210
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671563253
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338671570074
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671570248
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671570326
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1338671574993
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1338671577150
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671580213
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338671583263
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671583437
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671583483
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671587662
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671587663
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671588770
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671588770
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671590253
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671590253
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671591349
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671591350
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671593255
+closed,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671593256
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671595006
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338671613944
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338671616803
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671616992
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338671617062
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338671628070
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338671630558

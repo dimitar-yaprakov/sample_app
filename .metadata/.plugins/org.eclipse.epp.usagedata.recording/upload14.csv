@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597030729
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597030947
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031152
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031656
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031677
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031713
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031743
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031774
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031811
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031857
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031876
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031905
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031944
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597031975
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597032010
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597035248
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597035927
+error,log,,,"Unhandled event loop exception",1338597035965
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597042901
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1338597048619
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597051177
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597052159
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597063142
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597065528
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597066141
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597068096
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597078059
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597078990
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597091529
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597093096
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597093096
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597094048
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597123312
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597127775
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597132582
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597132747
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1338597135641
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597136364
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1338597137295
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597138178
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597139795
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597145340
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597153435
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597155546
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597159373
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597176303
+opened,editor,com.aptana.editor.sass,3.0.2.1322070237,"com.aptana.editor.sass",1338597176472
+activated,editor,com.aptana.editor.sass,3.0.2.1322070237,"com.aptana.editor.sass",1338597176502
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597180078
+closed,editor,com.aptana.editor.sass,3.0.2.1322070237,"com.aptana.editor.sass",1338597180078
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597183121
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597183272
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597183357
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597193521
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597193521
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597194349
+opened,editor,com.aptana.editor.sass,3.0.2.1322070237,"com.aptana.editor.sass",1338597194518
+activated,editor,com.aptana.editor.sass,3.0.2.1322070237,"com.aptana.editor.sass",1338597194562
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597205271
+closed,editor,com.aptana.editor.sass,3.0.2.1322070237,"com.aptana.editor.sass",1338597205271
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597209137
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597209291
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597209351
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597212081
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597212081
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597214024
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597214157
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597214226
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597215912
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597215912
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597217111
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597217279
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597217345
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597218984
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597218984
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597219888
+opened,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597220025
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597220089
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597221893
+closed,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597221893
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597224120
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597226127
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597226163
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597251512
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1338597256050
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597259079
+error,log,,,"Unhandled event loop exception",1338597259129
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597272362
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597278182
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597281774
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597284376
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597285905
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597286653
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597297974
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1338597303269
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597306084
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597306424
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597306831
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597307223
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597307554
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597308717
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597311672
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1338597314421
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597315276
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597315977
+error,log,,,"Unhandled event loop exception",1338597316056
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597328057
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597329005
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597330058
+activated,editor,org.eclipse.dltk.ruby.ui,0.95.0.v20080617-1812,"org.eclipse.dltk.ruby.ui.editor.RubyEditor",1338597330795
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1338597339660
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1338597341397
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597383592
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597384142
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597384727
+activated,view,com.aptana.terminal,3.0.0.1321644809,"com.aptana.terminal.views.terminal",1338597386067
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597395944
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1338597467236
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597471041
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597476236
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597476283
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1338597490261
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597491748
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597491922
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597491966
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1338597513988
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597533360
+opened,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597533522
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597533564
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597534946
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597535079
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1338597539574
+activated,editor,com.aptana.editor.erb,3.0.3.1319153036,"com.aptana.editor.erb.html",1338597539716
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541373
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541374
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541374
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541374
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541374
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541374
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541374
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541374
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541375
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541375
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541375
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541375
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541375
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541375
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541376
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541376
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541376
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541376
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541377
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541377
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541377
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541377
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541377
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541377
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541377
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541378
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541379
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541380
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn",1338597541381
